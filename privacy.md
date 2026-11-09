@@ -1,0 +1,1 @@
+ie App erhebt keine personenbezogenen Daten und überträgt nichts an Server. Kartensätze und Fotos bleiben auf dem Gerät und werden nur geteilt, wenn du sie selbst per AirDrop oder Mehrspielermodus verschickst.
